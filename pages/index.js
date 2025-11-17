@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Mauricio B Filho -- DEV -- Projeto TabNews -- Teste</h1>;
+  return <h1>Olá Cida, gosta de mim, dá um sorrizinho!</h1>;
 }
 
 export default Home;
